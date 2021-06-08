@@ -1,0 +1,28 @@
+site_name: C&C Tiberian Dawn Remastered
+
+nav:
+  - Contest Details: index.md
+  - FAQs: FAQs.md
+  - Sample Scoresheet: judges_scoresheet.md
+  - Submissions: submissions_received.md
+
+
+theme:
+  name: material
+  favicon: https://icons.iconarchive.com/icons/th3-prophetman/game/256/GDI-icon.png
+  logo: https://icons.iconarchive.com/icons/th3-prophetman/game/256/GDI-icon.png
+  palette:
+    primary: cyan
+    accent: blue
+
+repo_url: https://github.com/dan-mcm/map-contest
+repo_name: C&C Map Contest
+edit_uri: edit/master/map-contest
+
+markdown_extensions:
+  - admonition
+  - pymdownx.magiclink
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.mark
+  - smarty
