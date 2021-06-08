@@ -1,6 +1,6 @@
 # C&C TD Remastered Map Making Competition July 2021
 
-<img src="../../images/thumbnail.png"/>
+![Thumbnail](images/thumbnail.png)
 
 ## Prizes
 
@@ -17,6 +17,8 @@ These will be fulfilled and paid by Danku via PayPal transfer.
 ## Deadline
 Maps must be uploaded to the steam workshop and accessible in-game by <b>Friday 9th July 2021</b>.  
 Submissions will be listed under the Submissions section once received.
+
+There will be up to 2 weeks deliberation time for judges to announce results.
 
 ## Map Requirements
 
