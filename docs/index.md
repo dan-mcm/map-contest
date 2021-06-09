@@ -12,6 +12,8 @@ These will be fulfilled and paid by Danku via PayPal transfer.
 ## Judges
 * Achromic White
 * Lovehandles
+* Mclama
+* FeRReT666 / BlueMouse420
 * Danku
 
 ## Deadline
