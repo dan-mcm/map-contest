@@ -62,12 +62,38 @@ Crawls are an iconic part of the competitive Tiberian Dawn ladder, does your map
 * Have a fast/short game, mid game, long/longer game?
 
 ## Submission
-Have you uploaded your map to the Steam Workshop and verified it is accessible in-game via the user maps option? Excellent, now all you need to do is pass it along to Danku. You can do this by dropping a steam workshop link to your map to him via Discord through any of these channels:
+In order to submit your map for the contest follow these steps:
 
-* [DannyDanku Public Discord](https://discord.gg/bsAMEVz9m9)
-* Discord via [Direct Message](https://discord.com/users/201761215842615296)
+1. Upload your map to the Steam Workshop
+2. Verify it is accessible in-game via the user maps option
+3. Send a Link to your uploaded map on the steam workshop to Danku via one of the channels listed below  
+4. In addition to submitting your map, it is requested that you also forward across a replay file of a multiplayer game played on the map to enable judges quick access to viewing how users have built across your map.
+
+ [DannyDanku Public Discord](https://discord.gg/bsAMEVz9m9)  
+  Discord via [Direct Message](https://discord.com/users/201761215842615296)
 
 In the event of issues accessing the maps in game, please message Danku directly as it may be viable to send the raw map files for judging purposes.
+
+A sample submission:
+
+```
+Hi @Danku I wish to enter the Map Contest.
+Here is the Steam Workshop Link: https://steamcommunity.com/sharedfiles/filedetails/?id=2508727805
+Here is a link to a replay played on the map: https://replays.cnctdra.ea.com/MOBIUS_TIBERIAN_DAWN_MULTIPLAYER_COMMUNITY_4_MAP.745903.2183678.1622992204.0.36.Replay
+```
+
+### Getting a Replay Link
+After playing a multiplayer game on your created map:
+
+* Go to Replay / Observer
+* Search for your replay and hit Launch to initiate download
+* Go to your replay folder e.g. C:\Users\danie\Documents\CnCRemastered\Replays
+* Sort by Date Modified to get the most recent Replay downloaded.
+* Copy the name of the file e.g. MOBIUS_TIBERIAN_DAWN_MULTIPLAYER_COMMUNITY_5_MAP.745903.2179612.1622913404.0.36.Replay
+* Add it to the end of this url https://replays.cnctdra.ea.com/
+* Click the link to verify it correctly downloads the replay file
+
+Example: https://replays.cnctdra.ea.com/MOBIUS_TIBERIAN_DAWN_MULTIPLAYER_COMMUNITY_5_MAP.745903.2179612.1622913404.0.36.Replay
 
 ## Useful References
 * Crexis: [Map Ratings](https://www.reddit.com/r/commandandconquer/comments/icae3f/tiberian_dawn_feedback_map_pool_23/)
