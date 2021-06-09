@@ -10,6 +10,9 @@ These will be fulfilled and paid by Danku via PayPal transfer.
 🥈 <b>2nd Place - 10$</b>
 
 ## Judges
+
+There is a panel of judges each of which has a variety of experience with map design & development related to the C&C Remastered Collection.
+
 * Achromic White
 * Lovehandles
 * Mclama
@@ -17,7 +20,7 @@ These will be fulfilled and paid by Danku via PayPal transfer.
 * Danku
 
 ## Deadline
-Maps must be uploaded to the steam workshop and accessible in-game by <b>Friday 30th July 2021</b>.  
+Maps must be uploaded to the steam workshop and accessible in-game by <b>Friday 30th July 2021</b>.
 Submissions will be listed under the Submissions section once received.
 
 There will be up to 2 weeks deliberation time for judges to announce results.
