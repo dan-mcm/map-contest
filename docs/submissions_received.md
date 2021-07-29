@@ -31,3 +31,23 @@ Author: AOD Gaming
 [Replay Link](https://replays.cnctdra.ea.com/UGC_011000010A78EF55_0000000095586916_MAPDATA.745903.2319144.1626808356.0.36.Replay)
 
 <hr/>
+
+## Tournament Overextension 1vs1
+Author: CREEPYCRAWLER555
+
+![Thumbnail](images/tournament-overextension.jpg)
+
+[Steam Workshop Link](https://steamcommunity.com/sharedfiles/filedetails/?id=2558392717) |
+[Replay Link](https://replays.cnctdra.ea.com/UGC_0110000114B4FE26_00000000987DF98D_MAPDATA.745903.2338027.1627372273.0.36.Replay)
+
+<hr/>
+
+## Tournament Tiberium Oasis
+Author: CREEPYCRAWLER555
+
+![Thumbnail](images/tournament-tiberium-oasis.jpg)
+
+[Steam Workshop Link](https://steamcommunity.com/sharedfiles/filedetails/?id=2547455148) |
+[Replay Link](https://replays.cnctdra.ea.com/UGC_0110000114B4FE26_0000000097D714AC_MAPDATA.745903.2317268.1626746847.0.36.Replay)
+
+<hr/>
