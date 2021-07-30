@@ -51,3 +51,14 @@ Author: CREEPYCRAWLER555
 [Replay Link](https://replays.cnctdra.ea.com/UGC_0110000114B4FE26_0000000097D714AC_MAPDATA.745903.2317268.1626746847.0.36.Replay)
 
 <hr/>
+
+## The Two Rivers 1.1
+Author: UncleDJ
+
+![Thumbnail](images/two-rivers.jpg)
+
+[Steam Workshop Link](https://steamcommunity.com/sharedfiles/filedetails/?id=2559982251) |
+[Replay Link 1 - Early Map Revision](https://replays.cnctdra.ea.com/UGC_01100001196BA3A2_0000000098963AAB_MAPDATA.745903.2345736.1627603963.0.36.Replay) |
+[Replay Link 2 - Pending]()
+
+<hr/>
