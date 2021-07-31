@@ -62,3 +62,14 @@ Author: UncleDJ
 [Replay Link 2 - Pending]()
 
 <hr/>
+
+## Tournament Dispatched Tiberium *
+Author: Darth Kane (Clemont)
+
+![Thumbnail](images/dispatched-tib.jpg)
+
+[Steam Workshop Link](https://steamcommunity.com/sharedfiles/filedetails/?id=2561595211)
+
+* Latest version inaccessible via User Maps due to server issues, contact Danku directly for access to latest map files for testing
+
+<hr/>
