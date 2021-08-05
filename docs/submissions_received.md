@@ -59,7 +59,7 @@ Author: UncleDJ
 
 [Steam Workshop Link](https://steamcommunity.com/sharedfiles/filedetails/?id=2559982251) |
 [Replay Link 1 - Early Map Revision](https://replays.cnctdra.ea.com/UGC_01100001196BA3A2_0000000098963AAB_MAPDATA.745903.2345736.1627603963.0.36.Replay) |
-[Replay Link 2 - Pending]()
+[Replay Link 2](https://replays.cnctdra.ea.com/UGC_01100001196BA3A2_0000000098963AAB_MAPDATA.745903.2353696.1627824046.0.36.Replay)
 
 <hr/>
 
